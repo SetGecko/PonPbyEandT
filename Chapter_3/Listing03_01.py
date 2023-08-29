@@ -25,4 +25,3 @@ Foxtrot = tuple(Echo[k] for k in range(len(Echo)) if k % 2 == 0)
 print("Foxtrot", Foxtrot)
 Golf = Echo[2:5]
 print("Golf:", Golf)
-
