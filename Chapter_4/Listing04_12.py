@@ -7,5 +7,5 @@ myweek = {d: days.index(d) for d in days}
 print(week)
 print(myweek)
 # Создание ещё одного словаря
-sqrs = {k: k**2 for k in range(1, 11) if k%2!=0}
+sqrs = {k: k**2 for k in range(1, 11) if k % 2 != 0}
 print(sqrs)
