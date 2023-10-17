@@ -1,6 +1,6 @@
 # Функции
 def shift(val):
-    print("Функция shoft()")
+    print("Функция shift()")
     print("Исходное значение:", val)
     val = ["A", "B", "C", "D"]
     print("Конечное значение:", val)
