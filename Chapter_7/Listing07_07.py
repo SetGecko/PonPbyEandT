@@ -26,3 +26,4 @@ print("Сегодня:", thisday)
 delta = mydate - newdate
 # Проверка результата
 print("До первой даты:", delta)
+
