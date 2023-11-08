@@ -42,4 +42,3 @@ del A.color
 print("Класс:", MyClass.color)
 print("Объект А:", A.color)
 print("Объект B:", B.color)
-
